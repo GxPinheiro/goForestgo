@@ -1,0 +1,16 @@
+26/03/2018 09:15:41 - https://www.alura.com.br- online: true
+26/03/2018 09:15:42 - https://random-status-code.herokuapp.com- online: false
+26/03/2018 09:15:43 - https://www.caelum.com.br- online: true
+26/03/2018 09:15:43 - https://freelinha-landing-page.herokuapp.com- online: true
+26/03/2018 09:17:03 - https://www.alura.com.br- online: true
+26/03/2018 09:17:04 - https://random-status-code.herokuapp.com- online: false
+26/03/2018 09:17:05 - https://www.caelum.com.br- online: true
+26/03/2018 09:17:05 - https://freelinha-landing-page.herokuapp.com- online: true
+26/03/2018 09:17:10 - https://www.alura.com.br- online: true
+26/03/2018 09:17:11 - https://random-status-code.herokuapp.com- online: true
+26/03/2018 09:17:11 - https://www.caelum.com.br- online: true
+26/03/2018 09:17:12 - https://freelinha-landing-page.herokuapp.com- online: true
+26/03/2018 09:17:17 - https://www.alura.com.br- online: true
+26/03/2018 09:17:18 - https://random-status-code.herokuapp.com- online: false
+26/03/2018 09:17:18 - https://www.caelum.com.br- online: true
+26/03/2018 09:17:19 - https://freelinha-landing-page.herokuapp.com- online: true
